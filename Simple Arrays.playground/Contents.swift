@@ -17,3 +17,10 @@ var cuteness = [
 ]
 cuteness["Dogs"]
 
+for animal in animals {
+    animal
+}
+
+for animal in animals {
+    cuteness [animal]
+}
